@@ -13,7 +13,7 @@
 + :desktop_computer:	 Currently pursuing a master's degree in **Computer Science**
 
 <div align="center" >
-  <a href:"https://glintonliao.github.io/GlintonLiao-s-Portfolio/">Design Portfolio</a>
+  <a href="https://glintonliao.github.io/GlintonLiao-s-Portfolio/">Design Portfolio</a>
 </div>
 
 --- 
