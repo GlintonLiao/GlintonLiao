@@ -4,13 +4,13 @@
 
 ### :man_technologist: About Me :
 
-+ :world_map: Hold a bachleor's degree in **Urban Planning**
++ :world_map: Holding a bachleor's degree in **Urban Planning**
 
 + :classical_building: Worked as an **Architect** for two years
 
-+ :bookmark: Once got admitted by several **Human-Computer Interaction** progarms
++ :bookmark: Once got admitted to several **Human-Computer Interaction** progarms
 
-+ :desktop_computer:	 Currently pursuing a master's degree in **Computer Science**
++ :desktop_computer: Currently pursuing a master's degree in **Computer Science**
 
 <div align="center" >
   <a href="https://glintonliao.github.io/GlintonLiao-s-Portfolio/">Design Portfolio</a>
