@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://glintonliao.github.io/GlintonLiao-s-Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=data:./DYDY-01.png;base64" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=Macy's&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
 
