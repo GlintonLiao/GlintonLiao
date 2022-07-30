@@ -12,8 +12,13 @@
 
 + :desktop_computer: Currently pursuing a master's degree in **Computer Science**
 
-<div align="center" >
-  <a href="https://glintonliao.github.io/GlintonLiao-s-Portfolio/">Design Portfolio</a>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/glintonliao/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://glintonliao.github.io/GlintonLiao-s-Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=data:https://glintonliao.github.io/GlintonLiao-s-Portfolio/img/Intro/DYDY-01.png;base64&logoColor=white" alt="Portfolio Badge"/>
+  </a>
 </div>
 
 --- 
@@ -44,5 +49,3 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GlintonLiao&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GlintonLiao&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
