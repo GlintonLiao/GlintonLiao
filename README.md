@@ -4,11 +4,11 @@
 
 ### :man_technologist: About Me :
 
-+ :world_map: Holding a bachleor's degree in **Urban Planning**
++ :world_map: Holding a bachelor's degree in **Urban Planning**
 
 + :classical_building: Worked as an **Architect** for two years
 
-+ :bookmark: Once got admitted to several **Human-Computer Interaction** progarms
++ :bookmark: Once got admitted to several **Human-Computer Interaction** programs
 
 + :desktop_computer: Currently pursuing a master's degree in **Computer Science**
 
