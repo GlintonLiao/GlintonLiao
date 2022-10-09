@@ -13,8 +13,11 @@
 + :desktop_computer: Currently pursuing a master's degree in **Computer Science**
 
 <div id="badges" align="center">
+  <a href="https://questopia.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio(new)-orange?style=for-the-badge&logo=Macy's&logoColor=white" alt="Portfolio Badge"/>
+  </a>
   <a href="https://glintonliao.github.io/GlintonLiao-s-Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=Macy's&logoColor=white" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio(old)-grey?style=for-the-badge&logo=Macy's&logoColor=white" alt="Portfolio Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/glintonliao/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
