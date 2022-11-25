@@ -52,7 +52,7 @@
 
 ---
 
-### :fire: My Stats :
+### :clipboard: My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GlintonLiao&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&theme=default#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GlintonLiao&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&theme=github-dark-blue#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
