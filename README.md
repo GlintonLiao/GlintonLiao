@@ -22,8 +22,11 @@
   <a href="https://www.linkedin.com/in/glintonliao/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://www.npmjs.com/settings/glintonliao/packages">
+    <img src="https://img.shields.io/badge/Npm-brown?style=for-the-badge&logo=npm&logoColor=white" alt="NPM Badge"/>
+  </a>
   <a href="mailto:glintonliao@outlook.com">
-    <img src="https://img.shields.io/badge/Email-brown?style=for-the-badge&logo=Microsoft Outlook&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Email-teal?style=for-the-badge&logo=Microsoft Outlook&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
 
