@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/glintonliao/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.npmjs.com/settings/glintonliao/packages">
+  <a href="https://www.npmjs.com/~glintonliao">
     <img src="https://img.shields.io/badge/Npm-brown?style=for-the-badge&logo=npm&logoColor=white" alt="NPM Badge"/>
   </a>
   <a href="mailto:glintonliao@outlook.com">
