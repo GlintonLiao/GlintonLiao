@@ -56,6 +56,28 @@
 ---
 
 ### :clipboard: My Stats :
-
-[![Guotong's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=glintonliao&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Guotong's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=glintonliao&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<div>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=glintonliao&show_icons=true&count_private=true&theme=dark&hide_rank=true&hide=issues"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=glintonliao&show_icons=true&count_private=true&hide_rank=true&hide=issues"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=glintonliao&show_icons=true&count_private=true&hide_rank=true&hide=issues" />
+  </picture>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=glintonliao&layout=compact&langs_count=6&card_width=350&hide=HTML"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=glintonliao&layout=compact&langs_count=6&card_width=350&hide=HTML"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glintonliao&layout=compact&langs_count=6&card_width=350&hide=HTML" />
+  </picture>
+</div>
+  
