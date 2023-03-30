@@ -57,5 +57,5 @@
 
 ### :clipboard: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GlintonLiao&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&theme=default#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GlintonLiao&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&theme=github-dark-blue#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
+[![Guotong's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=glintonliao&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Guotong's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=glintonliao&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
