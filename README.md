@@ -59,25 +59,25 @@
 <div>
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=glintonliao&show_icons=true&count_private=true&theme=dark&hide_rank=true&hide=issues"
+      srcset="https://github-readme-stats.vercel.app/api?username=glintonliao&show_icons=true&count_private=true&theme=dark&hide_border=true&card_width=350&hide_rank=true&hide=issues"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=glintonliao&show_icons=true&count_private=true&hide_rank=true&hide=issues"
+      srcset="https://github-readme-stats.vercel.app/api?username=glintonliao&show_icons=true&hide_border=true&count_private=true&hide_rank=true&card_width=350&hide=issues"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=glintonliao&show_icons=true&count_private=true&hide_rank=true&hide=issues" />
+    <img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=glintonliao&show_icons=true&count_private=true&hide_border=true&card_width=350&hide_rank=true&hide=issues" />
   </picture>
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=glintonliao&layout=compact&langs_count=6&card_width=350&hide=HTML"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=glintonliao&layout=compact&hide_border=true&langs_count=6&card_width=350&hide=HTML"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=glintonliao&layout=compact&langs_count=6&card_width=350&hide=HTML"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=glintonliao&layout=compact&hide_border=true&langs_count=6&card_width=350&hide=HTML"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glintonliao&layout=compact&langs_count=6&card_width=350&hide=HTML" />
+    <img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glintonliao&layout=compact&hide_border=true&langs_count=6&card_width=350&hide=HTML" />
   </picture>
 </div>
   
